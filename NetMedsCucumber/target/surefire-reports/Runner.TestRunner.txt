@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: Runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.686 sec <<< FAILURE!
+user is logged in(NetMeds)  Time elapsed: 0.37 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'User is on the NetMeds HomePage' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User is on the NetMeds HomePage")
+public void user_is_on_the_net_meds_home_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters the Phonenumber details")
+public void user_enters_the_phonenumber_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters the OTP details")
+public void user_enters_the_otp_details() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User clicks the VerifyButton")
+public void user_clicks_the_verify_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

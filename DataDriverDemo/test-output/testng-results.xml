@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T13:04:02 IST" name="Default suite" finished-at="2022-10-21T13:04:25 IST" duration-ms="22610">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T13:04:02 IST" name="Default test" finished-at="2022-10-21T13:04:25 IST" duration-ms="22610">
+      <class name="test.DataProvderWithExcel1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.DataProvderWithExcel1@56620197]" started-at="2022-10-21T13:04:05 IST" name="beforeMethod" finished-at="2022-10-21T13:04:14 IST" duration-ms="8412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:test.DataProvderWithExcel1@56620197]" started-at="2022-10-21T13:04:14 IST" name="f" data-provider="dp" finished-at="2022-10-21T13:04:17 IST" duration-ms="2910" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vasuvespag]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vasu1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.DataProvderWithExcel1@56620197]" started-at="2022-10-21T13:04:17 IST" name="afterMethod" finished-at="2022-10-21T13:04:17 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.DataProvderWithExcel1@56620197]" started-at="2022-10-21T13:04:17 IST" name="beforeMethod" finished-at="2022-10-21T13:04:22 IST" duration-ms="4588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:test.DataProvderWithExcel1@56620197]" started-at="2022-10-21T13:04:22 IST" name="f" data-provider="dp" finished-at="2022-10-21T13:04:24 IST" duration-ms="2641" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aryan1207]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aryan120799]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.DataProvderWithExcel1@56620197]" started-at="2022-10-21T13:04:24 IST" name="afterMethod" finished-at="2022-10-21T13:04:25 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.DataProvderWithExcel1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
